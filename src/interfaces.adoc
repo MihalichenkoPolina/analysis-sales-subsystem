@@ -121,22 +121,22 @@
 | Ошибка проверки доступа | Доступна | Не удалось проверить доступ. Повторите позже
 |===
 .Успешный вход
-image::ui01-success.png[Успешный вход]
+image::../images/ui01-success.png[Успешный вход]
 
 .Поля не заполнены
-image::ui01-emptyfields.png[Ошибка: поля не заполнены]
+image::../images/ui01-emptyfields.png[Ошибка: поля не заполнены]
 
 .Неверный пароль
-image::ui01-errorpassword.png[Ошибка: неверный пароль]
+image::../images/ui01-errorpassword.png[Ошибка: неверный пароль]
 
 .Доступ запрещен
-image::ui01-accessdenied.png[Ошибка: доступ запрещен]
+image::../images/ui01-accessdenied.png[Ошибка: доступ запрещен]
 
 .Ошибка проверки доступа
-image::ui01-errorincheck.png[Ошибка проверки]
+image::../images/ui01-errorincheck.png[Ошибка проверки]
 
 .Сессия истекла
-image::ui01-sessionexpired.png[Сессия истекла]
+image::../images/ui01-sessionexpired.png[Сессия истекла]
 
 
 === Требования к интерфейсу
